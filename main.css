@@ -1,0 +1,53 @@
+body {
+  padding-top: 10%;
+  text-align: center;
+}
+button#click {
+  all: unset;
+  width: 100px;
+  height: 40px;
+  background-color: rgb(193, 237, 255);
+  text-align: center;
+  border-radius: 5px 15px 5px 15px;
+}
+div.captcha {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(217, 217, 255);
+  margin: 0 auto;
+  line-height: 50px;
+  margin-top: 1%;
+  box-shadow: 1px 1px 4px 2px rgb(186, 192, 253);
+  border: 1px solid rgb(196, 196, 252);
+}
+input#type {
+  all: unset;
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  text-align: center;
+  background-color: rgba(30, 143, 255, 0.158);
+  margin: 1%;
+}
+button#done {
+  all: unset;
+  width: 50px;
+  height: 40px;
+  background-color: rgb(56, 178, 226);
+  text-align: center;
+  border-radius: 15px 5px 15px 5px;
+  display: block;
+  margin: 0 auto;
+  -webkit-border-radius: 15px 5px 15px 5px;
+  -moz-border-radius: 15px 5px 15px 5px;
+  -ms-border-radius: 15px 5px 15px 5px;
+  -o-border-radius: 15px 5px 15px 5px;
+}
+div.j {
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(231, 231, 255);
+  margin: 0 auto;
+  margin-top: 1%;
+}
